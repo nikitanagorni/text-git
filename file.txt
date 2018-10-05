@@ -1,6 +1,5 @@
 new day
-<<<<<<< HEAD
 second line
-=======
 nikitos
->>>>>>> blin
+krot
+
